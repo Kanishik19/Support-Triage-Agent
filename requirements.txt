@@ -1,0 +1,8 @@
+# The core agent (heuristic classifier, routing, batch processing, HTML report)
+# uses only the Python standard library -- no install needed to run the CLI demo.
+#
+# Required to run the web API (api.py) that the React frontend talks to:
+flask>=3.0.0
+
+# Only required if you run with --llm to enable the Claude-backed classifier:
+anthropic>=0.34.0

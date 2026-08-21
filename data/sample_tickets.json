@@ -1,0 +1,93 @@
+[
+  {
+    "id": "T-1001",
+    "subject": "Charged twice for my subscription this month",
+    "body": "Hi, I just noticed my card was charged twice for the Pro plan this billing cycle. Can you refund the duplicate charge? Not urgent, whenever you get a chance.",
+    "customer_email": "priya.k@example.com",
+    "submitted_at": "2026-08-18T09:12:00Z"
+  },
+  {
+    "id": "T-1002",
+    "subject": "URGENT: production is down, entire team is blocked",
+    "body": "Our production environment has been down for 20 minutes and our entire engineering team is blocked. This is losing us money every minute. Please escalate immediately.",
+    "customer_email": "ops@acmecorp.com",
+    "submitted_at": "2026-08-19T14:03:00Z"
+  },
+  {
+    "id": "T-1003",
+    "subject": "Someone else logged into my account",
+    "body": "I got an email saying my account was accessed from a device I don't recognize, in a country I've never been to. I think my account has been compromised. Please help right away.",
+    "customer_email": "dana.m@example.com",
+    "submitted_at": "2026-08-19T15:41:00Z"
+  },
+  {
+    "id": "T-1004",
+    "subject": "Can't log in after password reset",
+    "body": "I reset my password an hour ago but I still can't log in. It keeps saying invalid credentials even after I copy-pasted the new password carefully.",
+    "customer_email": "leo.f@example.com",
+    "submitted_at": "2026-08-19T10:22:00Z"
+  },
+  {
+    "id": "T-1005",
+    "subject": "Export button throws an error",
+    "body": "Every time I click 'Export to CSV' on the reports page I get a 500 error and the page freezes. Here's the stack trace from the console: TypeError: cannot read property 'rows' of undefined.",
+    "customer_email": "grace.t@example.com",
+    "submitted_at": "2026-08-19T11:05:00Z"
+  },
+  {
+    "id": "T-1006",
+    "subject": "Would love a dark mode option",
+    "body": "Not a big deal, but it would be great if you could add a dark mode to the dashboard. A lot of us on the team work late and the bright white background is rough on the eyes. No rush at all.",
+    "customer_email": "sam.w@example.com",
+    "submitted_at": "2026-08-17T20:14:00Z"
+  },
+  {
+    "id": "T-1007",
+    "subject": "Extremely disappointed with the service lately",
+    "body": "This is the third time this month something has broken. I'm honestly considering switching to a competitor. Your support response times have been unacceptable and I'm fed up.",
+    "customer_email": "victor.h@example.com",
+    "submitted_at": "2026-08-18T16:47:00Z"
+  },
+  {
+    "id": "T-1008",
+    "subject": "Webhook not syncing with our CRM",
+    "body": "Our Salesforce integration stopped syncing new leads two days ago. No error shown in the logs, it just silently stops. We rely on this for our sales pipeline so it's fairly important.",
+    "customer_email": "it@northgate.io",
+    "submitted_at": "2026-08-18T08:30:00Z"
+  },
+  {
+    "id": "T-1009",
+    "subject": "Quick question about API rate limits",
+    "body": "Just wondering what the current rate limit is for the /reports endpoint on the Business plan. Couldn't find it in the docs. Thanks!",
+    "customer_email": "dev@buildwise.com",
+    "submitted_at": "2026-08-19T09:00:00Z"
+  },
+  {
+    "id": "T-1010",
+    "subject": "invoice",
+    "body": "where is it",
+    "customer_email": "min.j@example.com",
+    "submitted_at": "2026-08-19T12:11:00Z"
+  },
+  {
+    "id": "T-1011",
+    "subject": "App keeps crashing and I also can't update my payment method",
+    "body": "This is a weird one -- the mobile app crashes every time I open the billing tab, so I can't update my expired card, and now I'm worried I'll lose access. Can someone look into both issues?",
+    "customer_email": "aisha.r@example.com",
+    "submitted_at": "2026-08-19T13:27:00Z"
+  },
+  {
+    "id": "T-1012",
+    "subject": "Feature idea: bulk export for admins",
+    "body": "Would it be possible to add a bulk export option for account admins? Right now we have to export team-by-team which takes forever. Just a suggestion for the roadmap, not blocking anything.",
+    "customer_email": "priya.k@example.com",
+    "submitted_at": "2026-08-16T11:40:00Z"
+  },
+  {
+    "id": "T-1013",
+    "subject": "asdkj test 123",
+    "body": "test test ignore this",
+    "customer_email": "qa@internal.test",
+    "submitted_at": "2026-08-19T00:02:00Z"
+  }
+]
